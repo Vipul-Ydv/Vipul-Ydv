@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 - # Hey there :wave:
   
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://img.freepik.com/free-photo/digital-art-dark-cosmic-night-sky_23-2151700750.jpg?t=st=1728490251~exp=1728493851~hmac=d6a12e50f8d2ddc7baa09a4f3484b9f28f7152c1f80db6780387b363603f30e0&w=1060)" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
