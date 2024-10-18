@@ -1,6 +1,7 @@
 # 💫 About Me:
  Hi, I'm Vipul Yadav, a passionate Software Developer and Web Developer with a focus on 3D Rendering, Stock Trading Systems, and Cloud Technologies. I'm currently pursuing a B.Tech in Computer Science and Engineering (CSE) and constantly exploring new ways to merge technology with creativity. I love working on projects involving AI, Data Structures, and Blockchain technologies. Let's collaborate and build something amazing!
 
+[![An image of @vipulydv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vipulydv)](https://holopin.io/@vipulydv)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rendderbytelab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vipulydvv) 
