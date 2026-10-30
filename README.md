@@ -1,21 +1,26 @@
-# 💫 About Me:
- Hi, I'm Vipul Yadav, a passionate Software Developer and Web Developer
+# Vipul Yadav
 
+Full-stack + AI builder. CSE '27 at BTKIT Dwarahat. Open to SDE roles.
 
+I build AI features where **code checks what the model says and a human makes the call**.
 
- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vipul-Ydv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vipul-Ydv&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul-Ydv&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Selected work
 
+| Project | What it is |
+|---|---|
+| [**MessLoop**](https://github.com/Vipul-Ydv/messloop) | Event-driven agent on AWS (DynamoDB Streams, Lambda, Step Functions) that finds repeatedly wasted dishes in a hostel mess. A self-hosted LLM explains the evidence, code checks every number it writes, and a manager approves before anything changes. Environmental Hacks 2026. |
+| [**Nishaan**](https://hack-n-win-3-0-theta.vercel.app) | Tamper-evident evidence management for law enforcement. Files are encrypted in the browser, pinned to IPFS, with CIDs anchored on Ethereum and Police / Court / Admin roles enforced in the contract. 1st place, TechFest 2026. |
+| [**lineage**](https://github.com/Vipul-Ydv/lineage) | A company brain for an open-source repo: people, PRs and issues in a FalkorDB graph, and an agent that shows the path behind every answer. |
+| [**COPREPER**](https://copreper.vercel.app) ([code](https://github.com/Vipul-Ydv/COPREPER)) | Document your projects and trade-offs, then practise with an AI interviewer grounded in your notes. |
+| [**HackMatch**](https://github.com/Vipul-Ydv/first-commit) | AI-assisted teammate matching for hackathons. AI explains matches; team decisions are plain code. AWS First Commit. |
+| [**session-analytics**](https://github.com/Vipul-Ydv/session-analytics) | Page views, clicks, user journeys and a click heatmap (Express, MongoDB, Next.js). |
 
+## Background
 
+Software Developer Intern at ColoredCow (Dec 2025 to Sep 2026): Next.js and TypeScript on a blockchain-backed document platform and an AI-first project management system.
 
-[![](https://visitcount.itsvg.in/api?id=Vipul-Ydv&icon=0&color=0)](https://visitcount.itsvg.in)
+**Stack:** TypeScript, Next.js, React, Node.js, Python, AWS (Lambda, Step Functions, DynamoDB), Solidity, PostgreSQL, MongoDB.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Find me
 
----
-[![](https://visitcount.itsvg.in/api?id=Vipul-Ydv&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[Website](https://www.vipulydv.me) · [LinkedIn](https://www.linkedin.com/in/vipulydvv/) · vipul.ydv01@gmail.com
